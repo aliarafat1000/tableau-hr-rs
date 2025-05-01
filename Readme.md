@@ -12,7 +12,12 @@ This interactive **Human Resources Dashboard** is a comprehensive data visualiza
 The dashboard is split into two major views:
 
 1. **Overview Page** – Aggregate insights on employee demographics, departmental hiring patterns, salary distributions, performance by education level, and more.
-2. **Employee Details Page** – A searchable and filterable employee directory with attributes like ID, role, location, salary, hiring status, and length of employment.
+
+![Screenshot 2025-05-01 100322](https://github.com/user-attachments/assets/632aa987-b6f3-47d3-8e65-6c4b4c84d0e5)
+   
+3. **Employee Details Page** – A searchable and filterable employee directory with attributes like ID, role, location, salary, hiring status, and length of employment.
+
+![Screenshot 2025-05-01 100331](https://github.com/user-attachments/assets/6b8b1693-9fe5-4233-a626-c90c8e5a9b96)
 
 This project demonstrates my ability to **translate raw HR data into strategic insights** through dynamic visual storytelling, stakeholder-ready dashboards, and advanced filtering mechanisms.
 
